@@ -1,0 +1,12 @@
+#summary One-sentence summary of this page.
+#labels Implementation
+
+= Introduction =
+
+Implementation Details
+
+= Details =
+
+Check out my blog for the implementation details.
+
+http://starchu.blogspot.com/
