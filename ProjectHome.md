@@ -1,0 +1,1 @@
+The project provides a lightweight integration library for Google Guice and JSF2.0. It enables the developer use all the standard JSF 2.0 annotations to write managed beans, and allow DI via Guice in a seamless manner.
